@@ -91,6 +91,12 @@ h4{
 	font-size: 1.2em;
 }
 
+img{
+	border-style: solid;
+	border-color: gray;
+	border-width: 1px;
+}
+
 object{
 	border-style: solid;
 	border-color: black;
