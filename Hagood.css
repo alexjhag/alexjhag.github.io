@@ -23,11 +23,17 @@
 #NaNoWriMo{
 	float: right;
 	margin-left: 1%;
+	border-style: solid;
+	border-color: #696969;
+	border-width: 2px;
 }
 
 #penrose{
 	float: left;
 	margin-right: 1%;
+	border-style: solid;
+	border-color: #696969;
+	border-width: 2px;	
 }
 
 #title{
