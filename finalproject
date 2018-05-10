@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<link rel="stylesheet" href="Hagood.css">
+</head>
+<title>Alexander Hagood - Prospective Professor of English: Voyant Project</title>
+<body>
+	<div id="menu">
+		<ul style="list-style:none;">
+			<a href="index.html" class="menu"><button>Home</button></a>
+			<a href="aboutme.html" class="menu"><button>About Me</button></a>
+			<a href="cv.html" class="menu"><button>Curriculum Vita</button></a>
+			<a href="samplework.html" class="menu"><button>Sample Work</button></a>
+			<a href="otherhobbies.html" class="menu"><button>Other Hobbies</button></a>
+			<a href="contactme.html" class="menu"><button>Contact Me</button></a>
+		</ul>
+	</div>
+	<div id="title">
+		<center><h1>Alexander Hagood</h1></center>
+		<center><h2>Prospective Professor of English</h2></center>
+		<center><h3>Voyant Analysis of Mythology - A Closer Look</h3></center>
+	</div>
+	<div id="main">
+    <p>For this final analysis, I decided to take a step back and look at myths from a different perspective. Instead of looking for names,
+    I looked for concepts. The research question that I developed, which would require a great deal more research, but could have a 
+    starting place here, is as follows: What areas of life were considered more important to what cultures? How important was the sun or 
+    sky in comparison to the sea or death? With these questions in mind, I chose to look at the Odyssey, Metamorphoses, and the Prose Edda, 
+    which would cover Greek, Roman, and Norse culture. These were three of the major mythologies; I wanted to incorporate Egyptian, but 
+    could not easily find a collection of myths that demonstrated the variety that was received from the others. For the purpose of this 
+    analysis, Metamorphoses will be “Text 1” on the charts, The Odyssey will be Text 2, and the Prose Edda will be Text 3. To start, I 
+    looked at the following frequency chart from Voyant:</p>
+    
+    <!--	Exported from Voyant Tools (voyant-tools.org).
+The iframe src attribute below uses a relative protocol to better function with both
+http and https sites, but if you're embedding this into a local web page (file protocol)
+you should add an explicit protocol (https if you're using voyant-tools.org, otherwise
+it depends on this server.
+Feel free to change the height and width values or other styling below: -->
+<iframe style='width: 452px; height: 306px;' src='//voyant-tools.org/tool/Trends/?stopList=keywords-56c80a496ec47c5d8179503f513e427e&query=sun*&query=sea&query=king*&query=dead*&query=sky*&bins=3&corpus=caa2124e41af4356babdffd71c3d4d12'></iframe>
+
+    <p>In this frequency chart, I chose five big ideas that would come up frequently in most mythologies: sun, sea, sky, dead, and king. 
+    The goal of this method was to determine with what frequency each concept was used, and in which texts they were most often used. There 
+    were three things that I noticed immediately. The first was the consistent frequency of the word “sea.” This appears to demonstrate 
+    that each culture held a high regard for the sea, in comparison to the other ideas that I analyzed. The second was the consistent 
+    infrequency of the word “sky,” which demonstrates that, despite having gods for the sky, these ancient cultures did not value the sky 
+    nearly as much, despite some of their kings being gods of the sky. This brings me to the final point, where “king” blends in for the 
+    Odyssey and Metamorphoses, but has a drastic jump in frequency when looking at the Prose Edda. What was it about Norse culture that 
+    held such a high importance for kings? Or am I misunderstanding how kings are looked at? To help answer that question, I wanted to 
+    look at some of the context in which “king” was used, so moved over to another tool Voyant offers.</p>
+    
+    <!--	Exported from Voyant Tools (voyant-tools.org).
+The iframe src attribute below uses a relative protocol to better function with both
+http and https sites, but if you're embedding this into a local web page (file protocol)
+you should add an explicit protocol (https if you're using voyant-tools.org, otherwise
+it depends on this server.
+Feel free to change the height and width values or other styling below: -->
+<iframe style='width: 681px; height: 193px;' src='//voyant-tools.org/tool/Contexts/?stopList=keywords-56c80a496ec47c5d8179503f513e427e&query=king*&corpus=caa2124e41af4356babdffd71c3d4d12'></iframe>
+
+     <p>This allows a person to see, in context, how these words and phrases are being used. I specifically focused on king, since I 
+     noticed how important it was in the Prose Edda. What I found was rather interesting. Based on the contexts that I found, the Norse 
+     myths in the Prose Edda placed an emphasis not just on the gods in reference to “king,” as I was thinking about it, but talked a lot
+     about the mortal kings that ruled in Midgard. This has opened a few new potential routes a research, namely looking at the 
+     prevalence and importance of mortal kings to Norse culture. This developing research question was challenged, though, when I looked 
+     at the correlations between the term “king” and terms that have similar rise and fall patterns to it. These correlations can be 
+     seen here: </p>
+     
+     <!--	Exported from Voyant Tools (voyant-tools.org).
+The iframe src attribute below uses a relative protocol to better function with both
+http and https sites, but if you're embedding this into a local web page (file protocol)
+you should add an explicit protocol (https if you're using voyant-tools.org, otherwise
+it depends on this server.
+Feel free to change the height and width values or other styling below: -->
+<iframe style='width: 681px; height: 193px;' src='//voyant-tools.org/tool/Correlations/?stopList=keywords-56c80a496ec47c5d8179503f513e427e&query=king*&corpus=caa2124e41af4356babdffd71c3d4d12'></iframe>
+  
+    <p>In the Prose Edda, there is a higher correlation between “gods” and “king” than there is between “man” and “king,” even though the 
+    correlation between “man” and “king” is much higher throughout the entire corpus. This presents a limit of the Voyant analysis, 
+    because without actually reading the texts, I cannot fully understand these correlations and how the terms come together to create 
+    this dataset. However, all of this comes together to demonstrate that, despite my initial hypothesis that some of the deities of the 
+    sky would be more prevalent – I expected to see a much higher prevalence of “sun” than there is – it is actually the kings that are 
+    more talked about in my selections. It would be interesting, in an even further analysis, to expand my corpus even more and to see 
+    how these same datasets look when the corpus is bigger and has more text to analyze.</p>
+	</div>
+	<div id="footer1">
+		<center><a href="https://www.facebook.com/alex.hagood1">
+			<img src="fb-art.png" width="30" height="30"></a>
+		<a href="https://twitter.com/AHag343">
+			<img src="twit-art.png" width="30" height="30"></a>
+		<a href="https://www.linkedin.com/in/alexander-hagood-bb417496/">
+			<img src="linkedin-logo.png" width="30" height="30"></a>
+		<a href="https://alexjhaginacademia.wordpress.com/">
+			<img src="wordpress-logo.png" width="30" height="30"></a>
+		</center>
+	</div>
+	<div id="footer2">
+		<center><p>This website was coded by Alexander Hagood. All information presented is accurate to the best of my knowledge. For more information,
+		please contact me through the Contact Me page or via the email provided on my CV.</p></center>
+	</div>
+</body>
+</html>
